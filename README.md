@@ -1,3 +1,7 @@
+This is a class Project , part of the course of MEARN Stack . Applies the basics of angular to create a web application to manage online courses. 
+
+
+
 # TraininApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
